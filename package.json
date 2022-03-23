@@ -2,6 +2,8 @@
   "main": "node_modules/expo/AppEntry.js",
   "name": "components_klippel",
   "version": "0.0.1",
+  "author": "Klippel Team",
+  "license": "ISC",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
