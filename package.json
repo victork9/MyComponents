@@ -1,6 +1,6 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "name": "Components klippel",
+  "name": "components_klippel",
   "version": "0.0.1",
   "scripts": {
     "start": "expo start",
